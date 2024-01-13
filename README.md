@@ -1,5 +1,5 @@
 # 🙋 Sobre Mim
-*Olá, eu sou o* **Lucas**, *sou de* **Santa Catarina, Brasil**.
+*Olá, eu sou o* **Lucas**, *moro em* **Santa Catarina, Brasil**.
 # ⭐ Habilidades
 <div style="display: inline_block">
     <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
