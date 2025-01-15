@@ -1,5 +1,5 @@
 # 🙋 Sobre Mim
-*Olá, eu sou o* **Lucas**, *moro em* **Santa Catarina, Brasil**.
+*Olá, me chamo* **Lucas Hoffman** *e atualmente resido em* **Santa Catarina, Brasil***.*
 # ⭐ Habilidades
 <div style="display: inline_block">
     <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -14,7 +14,7 @@
 
 # 📂 Estatísticas
 <div style="display: inline_block">
-    <img align="center" alt="Visual Code" src="https://github-readme-stats.vercel.app/api?username=Zx2k&theme=blue-green" />
+    <img align="center" alt="Estatísticas" src="https://github-readme-stats.vercel.app/api?username=lucashoffcruz&theme=blue-green" />
 </div>
 
 #
